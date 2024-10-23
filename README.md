@@ -3,4 +3,4 @@
 <h3 align="center">Computer science student from Russia 🇷🇺</h3>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niexxe&theme=dark) 
+<h3 align="center"><a href=http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niexxe&theme=dark)</a></h3>
