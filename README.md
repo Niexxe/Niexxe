@@ -15,3 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niexxe&show_icons=true&locale=en&layout=compact" alt="niexxe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niexxe&show_icons=true&locale=en" alt="niexxe" /></p>
+
+<p><a href="https://codeby.games/users/Niexxe">CODEBY.GAMES</a></p>
