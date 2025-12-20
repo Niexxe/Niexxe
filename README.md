@@ -14,5 +14,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niexxe&show_icons=true&locale=en" alt="niexxe" /></p>
 
-<p><a href="https://codeby.games/users/Niexxe">CODEBY.GAMES</a></p>
+<p><a href="https://codeby.games/users/Niexxe">HackerLab</a></p>
 <p><a href="https://tryhackme.com/p/0xNiexxe">TryHackMe</a></p>
